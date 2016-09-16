@@ -1,2 +1,2 @@
-<?php 
-"Teste"; ?>
+<?php info.php; ?>
+<?php "Teste"; ?>
