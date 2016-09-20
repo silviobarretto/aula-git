@@ -1,4 +1,4 @@
-# aula-git
+# Aula GIT
 Aula de Git Code Education
 
 # Instruções para realizar *push*
